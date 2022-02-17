@@ -1,1 +1,1 @@
-web: gunicorn tamir-codestar.wsgi
+web: gunicorn codestar.wsgi
